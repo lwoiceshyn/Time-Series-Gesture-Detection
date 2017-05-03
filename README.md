@@ -13,5 +13,6 @@ The final model achieved 86% 70-30 cross-validation accuracy on the dataset.
 * Pickle
 
 
-## Examples
-
+## Example
+Multi-Channel Data Sample
+![Alt text](gestureexamples.png "Gesture Data")
