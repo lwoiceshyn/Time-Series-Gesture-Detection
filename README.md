@@ -8,8 +8,10 @@ The final model achieved 86% 70-30 cross-validation accuracy on the dataset.
 * Pandas
 * Numpy
 * Scikit-Learn
+* TsFresh
 * XGBoost
 * Pickle
 
 
 ## Examples
+
